@@ -12,7 +12,7 @@
  
 Java Software Engineer</h1>
 
-> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You can also name me Alex
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You can also name me Sasha
 
 <h1 align="center">
 <!--[<img src='https://user-images.githubusercontent.com/29590727/136810720-64da59f6-f698-47f4-8ef0-e55847c9bb63.png' alt='github' height='40'>](https://github.com/AleksandrZholud)
