@@ -28,7 +28,9 @@ Java Software Engineer</h1>
 <!--<a href="https://github.com/AleksandrZholud"><img src="https://s05.flagcounter.com/count2/2Q2S/bg_171729/txt_42B53A/border_FFFFFF/columns_1/maxflags_5/viewers_Views/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="1"></a>-->
 <!--</p>-->
  
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aleksandrzholud&color=12a367&style=flat-square&label=Count%20of%20views" alt="LxSasha" height='23'/> </p>
+<!-- 
+✔️✔️✔️
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aleksandrzholud&color=12a367&style=flat-square&label=Count%20of%20views" alt="LxSasha" height='23'/> </p> -->
 
 
  <!--Window of statistic-->
