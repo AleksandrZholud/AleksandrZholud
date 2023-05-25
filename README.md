@@ -22,9 +22,8 @@ Java Software Engineer</h1>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AleksandrZholud&theme=gotham" alt="AleksandrZholud"  height='218'/></p>
 
-<!-- 
-✔️✔️✔️
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AleksandrZholud&no-bg=true&no-frame=true&theme=tokyonight" alt="AleksandrZholud" height='92'/></a> </p> -->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AleksandrZholud&column=7&rank=SSS,SS,S,AAA,AA,A,B,C,D,?&no-bg=true&no-frame=true&theme=tokyonight" alt="AleksandrZholud" height='100'/></a> </p> 
 
 <!--<p align="right">-->
 <!--<a href="https://github.com/AleksandrZholud"><img src="https://s05.flagcounter.com/count2/2Q2S/bg_171729/txt_42B53A/border_FFFFFF/columns_1/maxflags_5/viewers_Views/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="1"></a>-->
