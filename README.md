@@ -1,10 +1,9 @@
 
 <h2> Hi there 👋 I am Alex </h2>
 
-<h3>
 Java Software Engineer with more than 2 years of commercial experience. I have strong knowledge of backend development in Java. In 
 general, worked with monolith and microservice architectures. 
-<h3>
+
  
 <h3 align='center'>
  
