@@ -18,7 +18,7 @@ general, worked with monolith and microservice architectures.
  ### Key points
  *   Studying programming and providing mentoring
  *   Currently working in [Nayax](https://www.nayax.com/)
- *   Improving my algorithms skiils on [leetcode](https://leetcode.com/AleksandrZholud/)
+ *   Improving my algorithms skills on [leetcode](https://leetcode.com/AleksandrZholud/)
  *   creator of [Telegram Wallet-bot](https://github.com/AleksandrZholud/wallet-bot) for managing your finances
  
  ## 🛠 Technical Stack
