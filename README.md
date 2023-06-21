@@ -1,7 +1,7 @@
 
 <h2> Hi there 👋 I am Alex </h2>
 
-Java Software Engineer with more than 3 years of commercial experience. I have strong knowledge of backend development in Java. In 
+Java Software Engineer with 3.5 years of commercial experience. I have strong knowledge of backend development in Java. In 
 general, worked with monolith and microservice architectures. 
 
  
