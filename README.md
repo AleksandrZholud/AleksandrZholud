@@ -7,7 +7,7 @@ general, worked with monolith and microservice architectures.
  
 <h3 align='center'>
  
-[<img src='https://user-images.githubusercontent.com/29590727/136810253-7a03d8e3-9e03-40b6-9c86-b6907c05e05c.png' alt='telegram' height='40'>](https://t.me/Aleks_JSD)  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://user-images.githubusercontent.com/29590727/136810588-a37eb007-9834-4a32-aacc-bab0b597e7a0.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleksandrzholud)
+[<img src='https://user-images.githubusercontent.com/29590727/136810253-7a03d8e3-9e03-40b6-9c86-b6907c05e05c.png' alt='telegram' height='40'>](https://t.me/zh_Aleks)  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://user-images.githubusercontent.com/29590727/136810588-a37eb007-9834-4a32-aacc-bab0b597e7a0.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleksandrzholud)
 
  </h3>
  
