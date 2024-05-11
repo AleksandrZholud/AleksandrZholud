@@ -1,7 +1,7 @@
 
 <h2> Hi there 👋 I am Alex </h2>
 
-Java Software Engineer with 3.5 years of commercial experience. I have strong knowledge of backend development in Java. In 
+Java Software Engineer with 4 years of commercial experience. I have strong knowledge of backend development in Java. In 
 general, worked with monolith and microservice architectures. 
 
  
@@ -22,7 +22,7 @@ general, worked with monolith and microservice architectures.
  *   creator of [Telegram Wallet-bot](https://github.com/AleksandrZholud/wallet-bot) for managing your finances
  
  ## 🛠 Technical Stack
- *   Java/Kotlin/Groovy languages
+ *   GO/Java/Kotlin/Groovy languages
  *   MySQL Server, PostgreSQL, Liquibase
  *   Spring Boot / Test, Spring Data JPA, Spring JDBC, Spring Cloud and so on...
  *   GitHub/GitLab/Bitbucket
