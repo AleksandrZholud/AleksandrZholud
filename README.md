@@ -1,9 +1,9 @@
 
 <h2> Hi there 👋 I am Alex </h2>
 
-Java Software Engineer with 4 years of commercial experience. I have strong knowledge of backend development in Java. In 
-general, worked with monolith and microservice architectures. 
+I am a Java developer with around 4 years of experience, focused on creating effective and reliable solutions using modern approaches and clean code principles. I have successfully worked on commercial projects, improving functionality and optimizing processes. I quickly adapt to new teams, solve tasks efficiently, and actively participate in code reviews and planning. My approach includes high responsibility, attention to detail, and a desire for continuous development. My goal is not just to complete tasks, but to find the best solutions for the dynamic and high-quality growth of the project.
 
+I have strong knowledge of backend development in Java and experience with both monolith and microservice architectures. Thanks to my good grasp of new technologies and a tremendous willingness to learn, I quickly adapt to new tasks and processes and seamlessly integrate into existing teams. You can expect constant reliability and a safe manner from me.
  
 <h3 align='center'>
  
@@ -29,14 +29,7 @@ general, worked with monolith and microservice architectures.
  
  
  <h6> 
-✔️ Before entering the realm of IT, a considerable part of my life (over 7 years) was dedicated to the realm of food production and 
-trading. This experience not only honed my strong communication skills but also taught me how to handle stressful situations with 
-tact. Furthermore, my time in managerial positions instilled in me the value of consistency, self-discipline, and a meticulous
-approach to monitoring and inspections.
-
-✔️ Thanks to my good grasp and tremendous willingness to learn, I can put myself into new tasks and processes flexibly and quickly 
-in a short period and quickly integrate myself into existing teams.
-✔️ In addition, you can expect constant reliability and a safe manner from me. 
+✔️Before entering the realm of IT, I dedicated over 7 years to food production and trading. This experience honed my strong communication skills and taught me how to handle stressful situations with tact. Additionally, my time in managerial positions instilled in me the value of consistency, self-discipline, and responsibility — not only in terms of attention to detail but also in meeting deadlines and ensuring timely delivery of results.
 </h6>
  
  
