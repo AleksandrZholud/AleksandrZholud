@@ -1,7 +1,7 @@
 
 <h2> Hi there 👋 I am Alex </h2>
 
-I am a Java developer with around 4 years of experience, focused on creating effective and reliable solutions using modern approaches and clean code principles. I have successfully worked on commercial projects, improving functionality and optimizing processes. I quickly adapt to new teams, solve tasks efficiently, and actively participate in code reviews and planning. My approach includes high responsibility, attention to detail, and a desire for continuous development. My goal is not just to complete tasks, but to find the best solutions for the dynamic and high-quality growth of the project.
+I am a Java developer with 5+ years of experience, focused on creating effective and reliable solutions using modern approaches and clean code principles. I have successfully worked on commercial projects, improving functionality and optimizing processes. I quickly adapt to new teams, solve tasks efficiently, and actively participate in code reviews and planning. My approach includes high responsibility, attention to detail, and a desire for continuous development. My goal is not just to complete tasks, but to find the best solutions for the dynamic and high-quality growth of the project.
 
 I have strong knowledge of backend development in Java and experience with both monolith and microservice architectures. Thanks to my good grasp of new technologies and a tremendous willingness to learn, I quickly adapt to new tasks and processes and seamlessly integrate into existing teams. You can expect constant reliability and a safe manner from me.
  
@@ -22,8 +22,8 @@ I have strong knowledge of backend development in Java and experience with both 
  *   creator of [Telegram Wallet-bot](https://github.com/AleksandrZholud/wallet-bot) for managing your finances
  
  ## 🛠 Technical Stack
- *   GO/Java/Kotlin/Groovy languages
- *   MySQL Server, PostgreSQL, Liquibase
+ *   Java/Kotlin/GO/Groovy languages
+ *   MsSQL Server, MySQL, MongoDB, PostgreSQL, Liquibase
  *   Spring Boot / Test, Spring Data JPA, Spring JDBC, Spring Cloud and so on...
  *   GitHub/GitLab/Bitbucket
  
